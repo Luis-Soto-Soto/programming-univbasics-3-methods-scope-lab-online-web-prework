@@ -1,4 +1,3 @@
-$phrase = "Thank You Mario! But Out Princess Is In Anothe Castle!"
 
 def mario
   
@@ -6,6 +5,7 @@ def mario
   puts phrase
   
 end
+phrase = "Thank You Mario! But Our Princess Is In Another Castle!"
 
 def toadstool
   puts status
